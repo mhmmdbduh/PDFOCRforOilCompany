@@ -1,6 +1,6 @@
 # Extract Data from PDF file and convert to CSV
 
-This project extracts structured data from PDF files containing well information and converts it into a CSV format for easier analysis and processing.
+This project extracts unstructured data from PDF files containing well information and converts it into a CSV format for easier analysis and processing.
 
 ## Project Overview
 
